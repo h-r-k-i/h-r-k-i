@@ -10,3 +10,7 @@
 h-r-k-i/h-r-k-i is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+yo
+
+i dont know what the FUCK i am doing.
