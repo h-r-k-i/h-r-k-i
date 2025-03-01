@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning raylib
 - 💞️ I’m looking to collaborate on whatever projects I can understand
 - 📫 How to reach me: no current method at this time, a work email will be established soon!
-- 😄 Pronouns: sie/ihr/ihre
+- 😄 Pronouns: Sie/Ihr/Ihre
 - ⚡ Fun fact: My name is a (semi) abjaded version of my preferred name.
 
 <!---
