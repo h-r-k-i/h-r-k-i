@@ -11,6 +11,6 @@ h-r-k-i/h-r-k-i is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-I still don't really know what I'm doing at this point in time :/
+I still don't really know what I'm doing at this point in time :/ \
 
 I may go IRL by Renee; if anyone is seeing that from that contact, hello there
