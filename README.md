@@ -3,7 +3,7 @@
 - I'm currently working on a [simple](https://en.wikipedia.org/wiki/Lie) bootloader for x86 kernels. Also [working](https://en.wikipedia.org/wiki/Procrastination) on a kernel that can boot from both the custom bootloader and [GRUB](https://www.urbandictionary.com/define.php?term=lie)  
 - Here is where I originally said "I’m looking to collaborate on whatever projects I can understand." Good fucking luck with that, future Renee 😊️  
 - How to reach me: Don't. And if you must, my company will gladly take all the emails you send to their main contact department at [contact@hrkimedia.com](mailto:contact@hrkimedia.com) or [contact@harukimedia.org](mailto:contact@harukimedia.org) and send them straight to /dev/null >:3c  
-- This is the section where I list my pronouns if I had already ascended past such feeble concepts like pronouns and forms of address usually reserved for the divine amongst the divine. Alas, most people are mere men who cannot understand that and so I will state that for all intents and purposes I'm/Him but otherwise she/her works just fine.  
+- This is the section where I list my pronouns if I had already ascended past such feeble concepts like pronouns and forms of address besides those usually reserved for the divine amongst the divine. Alas, most people are mere men who cannot understand that and so I will state that for all intents and purposes I'm/Him but otherwise she/her works just fine.  
 - Fun fact: While working on the text UI for SBL I got hit by a car :P  
 
 <!---
